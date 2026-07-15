@@ -5,7 +5,7 @@ Motivated Information Technology undergraduate at A D Patel Institute of Technol
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/purvanshu-patel-b54b13292/))
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:purvanshupatel5@gmail.com)
 
 📍 Lunawada, Gujarat &nbsp;|&nbsp; 📞 9726071797
@@ -72,13 +72,13 @@ Current CGPA: **7.81**
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=purvanshu-1104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![](https://github-readme-streak-stats.herokuapp.com/?user=purvanshu-1104&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=purvanshu-1104&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=tokyo-night&hide_title=true&area=true&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff)
+![](https://github-readme-activity-graph.vercel.app/graph?username=purvanshu-1104&theme=tokyo-night&hide_title=true&area=true&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff)
