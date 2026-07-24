@@ -62,6 +62,12 @@ Current CGPA: **7.81**
 - Clean, intuitive UI built with React.js for a seamless user experience across devices.
 - **Tech Stack:** React.js, JavaScript (ES6+), HTML5, CSS3, Node.js, Express.js, REST API, MongoDB
 
+### 🎯👤 AI Mock Interview Platform | *(Mern Stack )*
+-ATS-friendly 
+-Designed a scalable MVC-based backend with controllers, middleware, models, routes, and service layers following OOP principles. 
+-Built RESTful APIs integrated with AI services for dynamic interview question generation and real-time response evaluation. • Developed a responsive React.js frontend with role-based views and smooth interview workflows. 
+- **Tech Stack:** React.js , Node.js , MongoDB , REST API , HTML , CSS
+
 ---
 
 ## 📜 Certificates
